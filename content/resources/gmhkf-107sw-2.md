@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-04-quantum-physics-i-spring-2016/5593c24e32495b459c1eef7c91b0303b_gMHkf-107Sw.vtt
+file: /media/courses/8-04-quantum-physics-i-spring-2016/5593c24e32495b459c1eef7c91b0303b_gMHkf-107Sw.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 5593c24e-3249-5b45-9c1e-ef7c91b0303b

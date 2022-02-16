@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding quantum physics: Lecture
   Note 18.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-04-quantum-physics-i-spring-2016/3278c7c54db6f82b233fca84f1ecf3ea_MIT8_04S16_LecNotes18.pdf
+file: /media/courses/8-04-quantum-physics-i-spring-2016/3278c7c54db6f82b233fca84f1ecf3ea_MIT8_04S16_LecNotes18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Quantum Physics I, Lecture Note 18
 uid: 3278c7c5-4db6-f82b-233f-ca84f1ecf3ea

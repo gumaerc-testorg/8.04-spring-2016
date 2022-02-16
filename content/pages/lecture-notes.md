@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6947b4d2-b0d7-3d15-9ba3-638f887f2509
 ---
@@ -160,7 +163,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Scattering States and the Step Potential: The Step Potential, Step Potential with E > V0, Step Potential with E < V0, Wavepackets in the Step Potential (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes16)
+[Scattering States and the Step Potential: The Step Potential, Step Potential with E > V{{< sub "0" >}}, Step Potential with E \< V{{< sub "0" >}}, Wavepackets in the Step Potential (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes16)
 {{< tdclose >}}
 
 {{< trclose >}}

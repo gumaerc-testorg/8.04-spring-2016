@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Video Lectures
+parent_type: CourseSection
 parent_uid: fd67230c-637e-4133-bfc5-07ab35776015
 title: 'Part 2: Quantum Physics in One-dimensional Potentials'
 uid: 47c9328d-422d-9674-23c3-84164ff51d36

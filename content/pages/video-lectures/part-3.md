@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Video Lectures
+parent_type: CourseSection
 parent_uid: fd67230c-637e-4133-bfc5-07ab35776015
 title: 'Part 3: One-dimensional Scattering, Angular Momentum, and Central Potentials'
 uid: 8d915edd-a014-8775-8e5f-16d04eeccd76

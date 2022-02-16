@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Video Lectures
+parent_type: CourseSection
 parent_uid: fd67230c-637e-4133-bfc5-07ab35776015
 title: 'Part 1: Basic Concepts'
 uid: 71777a85-28aa-183c-9060-b392a1839df5

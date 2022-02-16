@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding quantum physics: Lecture
   Note 4.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-04-quantum-physics-i-spring-2016/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf
+file: /media/courses/8-04-quantum-physics-i-spring-2016/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Quantum Physics I, Lecture Note 4
 uid: 0c07cbdc-9c35-2c39-eb95-39b31ded90d7

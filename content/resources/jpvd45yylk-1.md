@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-04-quantum-physics-i-spring-2016/14cfbf39c9bb7d007988daca10494f41_jPVD45YYlk.pdf
+file: /media/courses/8-04-quantum-physics-i-spring-2016/14cfbf39c9bb7d007988daca10494f41_jPVD45YYlk.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 14cfbf39-c9bb-7d00-7988-daca10494f41

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: aab7ab06-840e-dd80-89e6-b48b28de07a5
 ---
@@ -283,7 +285,7 @@ Problem Set 8 due
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Central Potentials and Angular momentum. Algebra of angular momentum. Simultaneous eigenstates of Lz and L2. Legendre polynomials.
+Central Potentials and Angular momentum. Algebra of angular momentum. Simultaneous eigenstates of L{{< sub "z" >}} and L{{< sup "2" >}}. Legendre polynomials.
 {{< tdclose >}}
 {{< tdopen >}}
  
