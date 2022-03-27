@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6947b4d2-b0d7-3d15-9ba3-638f887f2509
 resourcetype: Document
 title: Quantum Physics I, Lecture Note 7
 uid: 6ca5bd79-a212-1967-796f-7c0b8f6f48c9

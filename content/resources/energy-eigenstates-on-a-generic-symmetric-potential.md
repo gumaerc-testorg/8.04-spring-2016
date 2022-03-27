@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Energy eigenstates on a generic symmetric potential. Shooting method
 uid: 7d64dd66-8c86-a9a9-a0bc-aa9874ac7407
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "The general Schr\xF6dinger equation. x, p commutator"
 uid: 1c5e0f0c-9d3b-e531-c70c-2b8c23c5079d
 video_files:

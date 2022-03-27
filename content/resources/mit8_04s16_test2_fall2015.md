@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 36bbae76-d1b8-a66f-1061-7015715889ed
 resourcetype: Document
 title: Quantum Physics I, Test 2
 uid: 7aa68fd6-9386-743f-73ea-86101559753d

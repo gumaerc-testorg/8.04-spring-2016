@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 36bbae76-d1b8-a66f-1061-7015715889ed
 resourcetype: Document
 title: Quantum Physics I, Final Exam
 uid: 47367602-c26c-4559-e9c2-67f8694203bf

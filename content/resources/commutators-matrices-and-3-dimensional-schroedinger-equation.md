@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Commutators, matrices, and 3-dimensional Schr\xF6dinger equation"
 uid: 0f3c09a4-dd8a-653c-23b4-4c8ed28a3e63
 video_files:

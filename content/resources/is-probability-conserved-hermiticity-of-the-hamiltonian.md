@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Is probability conserved? Hermiticity of the Hamiltonian
 uid: da8ac9fb-e344-1853-39dd-1788e2ccce1a
 video_files:

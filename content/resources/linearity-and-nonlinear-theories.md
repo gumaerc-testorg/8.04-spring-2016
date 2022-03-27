@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Linearity and nonlinear theories. Schr\xF6dinger's equation"
 uid: eee94bf0-2571-aeed-899e-dbbd58b251a3
 video_files:
