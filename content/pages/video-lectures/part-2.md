@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains video lectures for part 2 of the course.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -35,7 +36,7 @@ topics
 L10.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Uncertainty and eigenstates]({{< baseurl >}}/resources/uncertainty-and-eigenstates) (15:53)
+{{% resource_link b075223e-65cb-9b81-3274-072eadccf20e "Uncertainty and eigenstates" %}} (15:53)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +45,7 @@ L10.1
 L10.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Stationary states: key equations]({{< baseurl >}}/resources/stationary-states-key-equations) (18:43)
+{{% resource_link 0be3fb79-f3fd-bd4d-bbc1-c6694fe957db "Stationary states: key equations" %}} (18:43)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +54,7 @@ L10.2
 L﻿10.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Expectation values on stationary states]({{< baseurl >}}/resources/expectation-values-on-stationary-states) (09:00)
+{{% resource_link 3aee2946-ae96-ea08-0738-df1413820dfb "Expectation values on stationary states" %}} (09:00)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +63,7 @@ L﻿10.3
 L﻿10.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Comments on the spectrum and continuity conditions]({{< baseurl >}}/resources/comments-on-the-spectrum-and-continuity-conditions) (13:09)
+{{% resource_link a4e040ea-4121-2551-1f63-e7346398fb6e "Comments on the spectrum and continuity conditions" %}} (13:09)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +72,7 @@ L﻿10.4
 L﻿10.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Solving particle on a circle]({{< baseurl >}}/resources/solving-particle-on-a-circle) (11:05)
+{{% resource_link 92fc36f4-a197-5676-821b-9caaf4a773d6 "Solving particle on a circle" %}} (11:05)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +87,7 @@ L﻿10.5
 L11.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Energy eigenstates for particle on a circle]({{< baseurl >}}/resources/energy-eigenstates-for-particle-on-a-circle) (16:12)
+{{% resource_link aad1cf20-713c-3295-7be4-df11f469169d "Energy eigenstates for particle on a circle" %}} (16:12)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +96,7 @@ L11.1
 L11.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Infinite square well energy eigenstates]({{< baseurl >}}/resources/infinite-square-well-energy-eigenstates) (13:15)
+{{% resource_link effa3d07-7d96-4f67-43c1-86109ca8cdd7 "Infinite square well energy eigenstates" %}} (13:15)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +105,7 @@ L11.2
 L﻿11.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Nodes and symmetries of the infinite square well eigenstates]({{< baseurl >}}/resources/nodes-and-symmetries-of-the-infinite-square-well-eigenstates). (09:43)
+{{% resource_link 69495ebf-ecdd-317a-5e39-cec0c6dcab93 "Nodes and symmetries of the infinite square well eigenstates" %}}. (09:43)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +114,7 @@ L﻿11.3
 L﻿11.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Finite square well. Setting up the problem]({{< baseurl >}}/resources/finite-square-well). (22:30)
+{{% resource_link 26428fc0-d4e0-e809-54f7-93f2893750a3 "Finite square well. Setting up the problem" %}}. (22:30)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +123,7 @@ L﻿11.4
 L﻿11.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Finite square well energy eigenstates]({{< baseurl >}}/resources/finite-square-well-energy-eigenstates) (10:39)
+{{% resource_link f4cce89a-ce15-852d-a75d-487ce796b15c "Finite square well energy eigenstates" %}} (10:39)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +138,7 @@ L﻿11.5
 L12.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Nondegeneracy of bound states in 1D. Real solutions]({{< baseurl >}}/resources/nondegeneracy-of-bound-states-in-1d) (12:36)
+{{% resource_link eb542e1f-66f8-642a-f2fa-d86a42a095f6 "Nondegeneracy of bound states in 1D. Real solutions" %}} (12:36)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +147,7 @@ L12.1
 L12.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Potentials that satisfy V(-x) = V(x)]({{< baseurl >}}/resources/potentials-that-satisfy-v-x-v-x) (14:18)
+{{% resource_link fe3dca6a-5773-91ea-9daf-8e9c344699d5 "Potentials that satisfy V(-x) = V(x)" %}} (14:18)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +156,7 @@ L12.2
 L12.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Qualitative insights: Local de Broglie wavelength]({{< baseurl >}}/resources/qualitative-insights-local-de-broglie-wavelength) (15:52)
+{{% resource_link bee2a8ec-3bc5-e166-0020-b0ea555b0ab5 "Qualitative insights: Local de Broglie wavelength" %}} (15:52)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +165,7 @@ L12.3
 L12.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Correspondence principle: amplitude as a function of position]({{< baseurl >}}/resources/correspondence-principle-amplitude-as-a-function-of-position) (05:53)
+{{% resource_link ae7761b9-756a-3913-2024-8b5cbc2181b9 "Correspondence principle: amplitude as a function of position" %}} (05:53)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +174,7 @@ L12.4
 L12.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Local picture of the wavefunction]({{< baseurl >}}/resources/local-picture-of-the-wavefunction) (12:52)
+{{% resource_link c84b853f-83f7-41c4-77fc-25dfaa182eba "Local picture of the wavefunction" %}} (12:52)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +183,7 @@ L12.5
 L12.6
 {{< tdclose >}}
 {{< tdopen >}}
-[Energy eigenstates on a generic symmetric potential. Shooting method]({{< baseurl >}}/resources/energy-eigenstates-on-a-generic-symmetric-potential) (15:26)
+{{% resource_link 7d64dd66-8c86-a9a9-a0bc-aa9874ac7407 "Energy eigenstates on a generic symmetric potential. Shooting method" %}} (15:26)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +198,7 @@ L12.6
 L13.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Delta function potential I: Preliminaries]({{< baseurl >}}/resources/delta-function-potential-i-preliminaries) (16:14)
+{{% resource_link fb7fc364-da91-2138-a6d2-afc169ebe0c3 "Delta function potential I: Preliminaries" %}} (16:14)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +207,7 @@ L13.1
 L13.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Delta function potential I: Solving for the bound state]({{< baseurl >}}/resources/delta-function-potential-i-solving-for-the-bound-state) (15:21)
+{{% resource_link b23d3b89-6a9f-4d52-348e-875f3dbe22ac "Delta function potential I: Solving for the bound state" %}} (15:21)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +216,7 @@ L13.2
 L13.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Node Theorem]({{< baseurl >}}/resources/node-theorem) (13:01)
+{{% resource_link 86a6650a-310f-9597-3119-8828b080f1c8 "Node Theorem" %}} (13:01)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +225,7 @@ L13.3
 L13.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Harmonic oscillator: Differential equation]({{< baseurl >}}/resources/harmonic-oscillator-differential-equation) (16:45)
+{{% resource_link f9d7dec3-c2b3-7079-adab-f14e3c621148 "Harmonic oscillator: Differential equation" %}} (16:45)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +234,7 @@ L13.4
 L13.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Behavior of the differential equation]({{< baseurl >}}/resources/behavior-of-the-differential-equation) (10:31)
+{{% resource_link 7a0f1d25-bb33-2f8c-10fc-86d4e0afdd7b "Behavior of the differential equation" %}} (10:31)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +249,7 @@ L13.5
 L14.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Recursion relation for the solution]({{< baseurl >}}/resources/recursion-relation-for-the-solution) (12:25)
+{{% resource_link 5eb09ee6-4d6f-1e9a-f787-330114969181 "Recursion relation for the solution" %}} (12:25)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -257,7 +258,7 @@ L14.1
 L14.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Quantization of the energy]({{< baseurl >}}/resources/quantization-of-the-energy) (23:23)
+{{% resource_link 6728d7da-72ba-0c4b-14fa-286c88471a37 "Quantization of the energy" %}} (23:23)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -266,7 +267,7 @@ L14.2
 L14.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Algebraic solution of the harmonic oscillator]({{< baseurl >}}/resources/algebraic-solution-of-the-harmonic-oscillator) (16:50)
+{{% resource_link 374226f3-868b-7955-5fa4-9ffc519fbf5e "Algebraic solution of the harmonic oscillator" %}} (16:50)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -275,7 +276,7 @@ L14.3
 L14.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Ground state wavefunction]({{< baseurl >}}/resources/ground-state-wavefunction) (15:58)
+{{% resource_link f0145cab-9566-cad3-f0d1-562a02f04ad1 "Ground state wavefunction" %}} (15:58)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -290,7 +291,7 @@ L14.4
 L15.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Number operator and commutators]({{< baseurl >}}/resources/number-operator-and-commutators) (15:49)
+{{% resource_link 385f9ad2-a9be-5e04-d4cc-922accd184c3 "Number operator and commutators" %}} (15:49)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +300,7 @@ L15.1
 L15.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Excited states of the harmonic oscillator]({{< baseurl >}}/resources/excited-states-of-the-harmonic-oscillator) (18:19)
+{{% resource_link d34911b8-a43f-e2ab-8b22-c7d8bc462eb5 "Excited states of the harmonic oscillator" %}} (18:19)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +309,7 @@ L15.2
 L15.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Creation and annihilation operators acting on energy eigenstates]({{< baseurl >}}/resources/creation-and-annihilation-operators-acting-on-energy-eigenstates) (21:03)
+{{% resource_link 44362ac9-98aa-1d12-38d2-1f33b471f1fd "Creation and annihilation operators acting on energy eigenstates" %}} (21:03)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -317,7 +318,7 @@ L15.3
 L15.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Scattering states and the step potential]({{< baseurl >}}/resources/scattering-states-and-the-step-potential) (10:34)
+{{% resource_link 586beeca-4072-4dc3-bbcb-fb95b1a43123 "Scattering states and the step potential" %}} (10:34)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -332,7 +333,7 @@ L15.4
 L16.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Step potential probability current]({{< baseurl >}}/resources/step-potential-probability-current) (14:59)
+{{% resource_link 28021f55-0a19-7458-81e6-262fa57427ae "Step potential probability current" %}} (14:59)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -341,7 +342,7 @@ L16.1
 L16.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Reflection and transmission coefficients]({{< baseurl >}}/resources/reflection-and-transmission-coefficients) (08:12)
+{{% resource_link ea7ae8f7-2244-421f-e624-959afe48b933 "Reflection and transmission coefficients" %}} (08:12)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -350,7 +351,7 @@ L16.2
 L16.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Energy below the barrier and phase shift]({{< baseurl >}}/resources/energy-below-the-barrier-and-phase-shift) (18:40)
+{{% resource_link 17ee7bd0-df0d-c3d7-f8b0-38f00639b328 "Energy below the barrier and phase shift" %}} (18:40)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -359,7 +360,7 @@ L16.3
 L16.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Wavepackets]({{< baseurl >}}/resources/wavepackets) (20:51)
+{{% resource_link 35f1f136-694e-6d8c-855b-242f96b9ce03 "Wavepackets" %}} (20:51)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -368,7 +369,7 @@ L16.4
 L16.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Wavepackets with energy below the barrier]({{< baseurl >}}/resources/wavepackets-with-energy-below-the-barrier) (05:54)
+{{% resource_link c51fc91d-ee1f-8cc7-3f2c-0842d8160583 "Wavepackets with energy below the barrier" %}} (05:54)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -377,7 +378,7 @@ L16.5
 L16.6
 {{< tdclose >}}
 {{< tdopen >}}
-[Particle on the forbidden region]({{< baseurl >}}/resources/particle-on-the-forbidden-region) (06:48)
+{{% resource_link c69a097e-0665-25be-9101-aab64bd286f1 "Particle on the forbidden region" %}} (06:48)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -392,7 +393,7 @@ L16.6
 L17.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Waves on the finite square well]({{< baseurl >}}/resources/waves-on-the-finite-square-well) (15:44)
+{{% resource_link ec4b9864-89aa-76ba-b376-f4e3acadd067 "Waves on the finite square well" %}} (15:44)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -401,7 +402,7 @@ L17.1
 L17.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Resonant transmission]({{< baseurl >}}/resources/resonant-transmission) (17:49)
+{{% resource_link 8175f23e-cc6a-5253-3ab8-10865a74cd39 "Resonant transmission" %}} (17:49)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -410,7 +411,7 @@ L17.2
 L17.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Ramsauer-Townsend phenomenology]({{< baseurl >}}/resources/ramsauer-townsend-phenomenology) (10:16)
+{{% resource_link 460492ba-0ca2-a5bd-ae4b-319caf09198c "Ramsauer-Townsend phenomenology" %}} (10:16)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +420,7 @@ L17.3
 L17.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Scattering in 1D. Incoming and outgoing waves]({{< baseurl >}}/resources/scattering-in-1d) (18:05)
+{{% resource_link 622b68a9-7ec6-c8bc-c995-a37411e3ab27 "Scattering in 1D. Incoming and outgoing waves" %}} (18:05)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -428,7 +429,7 @@ L17.4
 L17.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Scattered wave and phase shift]({{< baseurl >}}/resources/scattered-wave-and-phase-shift) (08:40)
+{{% resource_link de956ab9-1850-d23a-edeb-80113ae85173 "Scattered wave and phase shift" %}} (08:40)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -443,7 +444,7 @@ L17.5
 L18.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Incident packet and delay for reflection]({{< baseurl >}}/resources/incident-packet-and-delay-for-reflection) (18:52)
+{{% resource_link 884b2d20-bd01-6ff4-06dd-6fa6baa4d447 "Incident packet and delay for reflection" %}} (18:52)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -452,7 +453,7 @@ L18.1
 L18.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Phase shift for a potential well]({{< baseurl >}}/resources/phase-shift-for-a-potential-well) (09:13)
+{{% resource_link 178caee6-56e7-10c1-d4e0-a69d6db580ec "Phase shift for a potential well" %}} (09:13)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -461,7 +462,7 @@ L18.2
 L18.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Excursion of the phase shift]({{< baseurl >}}/resources/excursion-of-the-phase-shift) (15:16)
+{{% resource_link f59baf03-8978-f321-de00-7eabafb9f0e7 "Excursion of the phase shift" %}} (15:16)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -470,7 +471,7 @@ L18.3
 L18.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Levinson's theorem, part 1]({{< baseurl >}}/resources/levinsons-theorem-part-1) (14:46)
+{{% resource_link 5d50ee86-3182-8bff-7247-d4e21fe620a0 "Levinson's theorem, part 1" %}} (14:46)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -479,7 +480,7 @@ L18.4
 L18.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Levinson's theorem, part 2]({{< baseurl >}}/resources/levinsons-theorem-part-2) (09:30)
+{{% resource_link 701f3267-9985-2829-2e9a-1e007e3dd8bd "Levinson's theorem, part 2" %}} (09:30)
 {{< tdclose >}}
 
 {{< trclose >}}

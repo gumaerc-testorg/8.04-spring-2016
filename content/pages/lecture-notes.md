@@ -1,12 +1,12 @@
 ---
 content_type: page
+description: This section includes a complete set of lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 6947b4d2-b0d7-3d15-9ba3-638f887f2509
 ---
-
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
@@ -31,7 +31,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Key Features of Quantum Mechanics: Linearity of the Equations of Motion, Complex Numbers are Essential, Loss of Determinism, Quantum Superpositions, Entanglement (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes1)
+{{% resource_link 7f930e01-3cef-9cd7-dec5-aa88baa83f0a "Key Features of Quantum Mechanics: Linearity of the Equations of Motion, Complex Numbers are Essential, Loss of Determinism, Quantum Superpositions, Entanglement (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +40,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Experiments with Photons: Mach-Zehder Interferometer, Elitzur-Vaidman Bombs (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes2)
+{{% resource_link afaef4b8-2717-59d3-52ac-75c4e85eaee6 "Experiments with Photons: Mach-Zehder Interferometer, Elitzur-Vaidman Bombs (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Particle Nature of Light and Wave Nature of Matter: Photoelectric Effect, Compton Scattering, Matter Waves (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes3)
+{{% resource_link f928b8dc-e3d6-a218-fddd-a9617c5eb4f2 "Particle Nature of Light and Wave Nature of Matter: Photoelectric Effect, Compton Scattering, Matter Waves (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +58,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[de Broglie Wavelength and Galilean Transformations, Phase and Group Velocities, Choosing the Wavefunction for a Free Particle (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes4)
+{{% resource_link 0c07cbdc-9c35-2c39-eb95-39b31ded90d7 "de Broglie Wavelength and Galilean Transformations, Phase and Group Velocities, Choosing the Wavefunction for a Free Particle (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Equations for a Wavefunction, Schrödinger Equation for Particle in a Potential, Interpreting the Wavefunction (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes5)
+{{% resource_link a512b3a4-5fd8-0afe-fa76-40c366839191 "Equations for a Wavefunction, Schrödinger Equation for Particle in a Potential, Interpreting the Wavefunction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +76,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Normalization and Time Evolution, The Wavefunction as a Probability Amplitude, The Probability Current, Probability Current in 3D and Current Conservation (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes6)
+{{% resource_link d87c768c-4e11-81fd-e8d4-366112169719 "Normalization and Time Evolution, The Wavefunction as a Probability Amplitude, The Probability Current, Probability Current in 3D and Current Conservation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +85,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Wavepackets and Uncertainty, Wavepacket Shape Changes, Time Evolution of a Free Wave Packet (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes7)
+{{% resource_link 6ca5bd79-a212-1967-796f-7c0b8f6f48c9 "Wavepackets and Uncertainty, Wavepacket Shape Changes, Time Evolution of a Free Wave Packet (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +94,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Uncovering Momentum Space, Expectation Values of Operators, Time Dependence of Expectation Values (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes8)
+{{% resource_link 72de1b68-8f3f-40e1-c42b-26b3da29585a "Uncovering Momentum Space, Expectation Values of Operators, Time Dependence of Expectation Values (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +103,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Observables and Hermitian Operators, Uncertainty (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes9)
+{{% resource_link be7c26e1-3550-f3b3-cc7f-3f7a87f00d44 "Observables and Hermitian Operators, Uncertainty (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +118,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Solving the Time-Independent Schrödinger Equation: Stationary States, Solving for Energy Eigenstates, Free Particle on a Circle (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes10)
+{{% resource_link 01b09433-1376-51be-dbbf-e4f039b0c5be "Solving the Time-Independent Schrödinger Equation: Stationary States, Solving for Energy Eigenstates, Free Particle on a Circle (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +127,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[The Infinite Square Well, The Finite Square Well (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes11)
+{{% resource_link a565b327-f85c-7721-b18f-1074dbd69ede "The Infinite Square Well, The Finite Square Well (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +136,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[General Properties, Bound States in Slowly Varying Potentials, Sketching Wavefunction Behavior in Different Regions, Shooting Method (PDF - 1.4MB)]({{< baseurl >}}/resources/mit8_04s16_lecnotes12)
+{{% resource_link 0c7802ea-5bca-26fa-c48e-5fb6d8b607e8 "General Properties, Bound States in Slowly Varying Potentials, Sketching Wavefunction Behavior in Different Regions, Shooting Method (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +145,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Delta Function Potential, The Node Theorem, Simple Harmonic Oscillator (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_04s16_lecnotes13)
+{{% resource_link ff9fdba4-da09-b783-2555-83e2a61d1279 "Delta Function Potential, The Node Theorem, Simple Harmonic Oscillator (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +154,7 @@ TOPICS
 14 & 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Algebraic Approach to the Simple Harmonic Oscillator: Algebraic Solution of the Oscillator, Operator Manipulation and the Spectrum (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes14_15)
+{{% resource_link 3b4ee73b-da5a-bd93-cbb2-a89ae9b6765b "Algebraic Approach to the Simple Harmonic Oscillator: Algebraic Solution of the Oscillator, Operator Manipulation and the Spectrum (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +163,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Scattering States and the Step Potential: The Step Potential, Step Potential with E > V{{< sub "0" >}}, Step Potential with E \< V{{< sub "0" >}}, Wavepackets in the Step Potential (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes16)
+{{% resource_link 2cfb1c11-b0f9-093b-b8b4-52c5cebf24dd "Scattering States and the Step Potential: The Step Potential, Step Potential with E > V{{< sub \"0\" >}}, Step Potential with E \< V{{< sub \"0\" >}}, Wavepackets in the Step Potential (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +172,7 @@ TOPICS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Resonant Transmission in a Square Well, The Ramsauer–Townsend Effect (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes17)
+{{% resource_link 79c490b9-6f77-e137-4c42-d7119a940091 "Resonant Transmission in a Square Well, The Ramsauer–Townsend Effect (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +181,7 @@ TOPICS
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Scattering in One Dimension: Time Delay, An Example (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes18)
+{{% resource_link 3278c7c5-4db6-f82b-233f-ca84f1ecf3ea "Scattering in One Dimension: Time Delay, An Example (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +196,7 @@ TOPICS
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Levinson’s Theorem, Resonances, Modeling the Resonance (PDF - 1.1MB)]({{< baseurl >}}/resources/mit8_04s16_lecnotes19)
+{{% resource_link c09079d6-8480-a850-5df9-db769ab917b8 "Levinson’s Theorem, Resonances, Modeling the Resonance (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +205,7 @@ TOPICS
 20 & 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Quantum Mechanics in 3D and Central Potentials: Schrödinger Equation in 3D and Angular Momentum, The Angular Momentum Operator, Eigenstates of Angular Momentum, The Radial Wave Equation (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes20_21)
+{{% resource_link d1dbe77b-d49b-6a2e-ab52-401dba351f64 "Quantum Mechanics in 3D and Central Potentials: Schrödinger Equation in 3D and Angular Momentum, The Angular Momentum Operator, Eigenstates of Angular Momentum, The Radial Wave Equation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +214,7 @@ TOPICS
 21 & 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Hydrogen Atom, Hydrogen Atom Spectrum (PDF)]({{< baseurl >}}/resources/mit8_04s16_lecnotes22)
+{{% resource_link e34ceed6-a6ec-944a-3c76-1fcbbf48be5f "Hydrogen Atom, Hydrogen Atom Spectrum (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

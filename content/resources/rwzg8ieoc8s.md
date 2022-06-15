@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-04-quantum-physics-i-spring-2016/e3868ea16020da1bf39c7fca476151c8_rwzg8iEOc8s.srt
+file: /courses/8-04-quantum-physics-i-spring-2016/e3868ea16020da1bf39c7fca476151c8_rwzg8iEOc8s.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

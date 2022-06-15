@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding quantum physics: Lecture
   Notes 14-15.'
-file: /media/courses/8-04-quantum-physics-i-spring-2016/3b4ee73bda5abd93cbb2a89ae9b6765b_MIT8_04S16_LecNotes14_15.pdf
+file: /courses/8-04-quantum-physics-i-spring-2016/3b4ee73bda5abd93cbb2a89ae9b6765b_MIT8_04S16_LecNotes14_15.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Quantum Physics I, Lecture Notes 14-15
 uid: 3b4ee73b-da5a-bd93-cbb2-a89ae9b6765b
 ---
+This resource contains information regarding quantum physics: Lecture Notes 14-15.
+

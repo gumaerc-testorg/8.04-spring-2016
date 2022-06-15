@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the topics of the course lectures and important dates
+  for problems sets and exams.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

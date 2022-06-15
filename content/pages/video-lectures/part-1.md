@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains video lectures for part 1 of the course.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -35,7 +36,7 @@ topics
 L1.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Quantum mechanics as a framework. Defining linearity]({{< baseurl >}}/resources/quantum-mechanics-as-a-framework) (17:46)
+{{% resource_link 9d6cdfcd-1798-316c-6902-84234f066a52 "Quantum mechanics as a framework. Defining linearity" %}} (17:46)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +45,7 @@ L1.1
 L1.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Linearity and nonlinear theories. Schrödinger's equation]({{< baseurl >}}/resources/linearity-and-nonlinear-theories) (10:01)
+{{% resource_link eee94bf0-2571-aeed-899e-dbbd58b251a3 "Linearity and nonlinear theories. Schrödinger's equation" %}} (10:01)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +54,7 @@ L1.2
 L1.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Necessity of complex numbers]({{< baseurl >}}/resources/necessity-of-complex-numbers) (07:38)
+{{% resource_link a7f805f9-2c44-7e25-a549-13af2d9c2611 "Necessity of complex numbers" %}} (07:38)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +63,7 @@ L1.3
 L1.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Photons and the loss of determinism]({{< baseurl >}}/resources/photons-and-the-loss-of-determinism) (17:20)
+{{% resource_link d1ee466f-b591-5d5c-9c6c-8aa8c2b63d44 "Photons and the loss of determinism" %}} (17:20)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +72,7 @@ L1.4
 L1.5
 {{< tdclose >}}
 {{< tdopen >}}
-[The nature of superposition. Mach-Zehnder interferometer]({{< baseurl >}}/resources/the-nature-of-superposition) (14:30)
+{{% resource_link be26d061-f126-7fbf-f174-97029175d89e "The nature of superposition. Mach-Zehnder interferometer" %}} (14:30)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +87,7 @@ L1.5
 L2.1
 {{< tdclose >}}
 {{< tdopen >}}
-[More on superposition. General state of a photon and spin states]({{< baseurl >}}/resources/more-on-superposition) (17:10)
+{{% resource_link 751f4412-b97d-3b5a-cada-0530d65e4021 "More on superposition. General state of a photon and spin states" %}} (17:10)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +96,7 @@ L2.1
 L2.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Entanglement]({{< baseurl >}}/resources/entanglement) (13:07)
+{{% resource_link 82cabaa1-26dc-bc5a-334d-27cda290f118 "Entanglement" %}} (13:07)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +105,7 @@ L2.2
 L2.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Mach-Zehnder interferometers and beam splitters]({{< baseurl >}}/resources/mach-zehnder-interferometers-and-beam-splitters) (15:32)
+{{% resource_link d5c59c92-fc82-de2c-22e0-5b23434d1216 "Mach-Zehnder interferometers and beam splitters" %}} (15:32)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +114,7 @@ L2.3
 L2.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Interferometer and interference]({{< baseurl >}}/resources/interferometer-and-interference) (12:26)
+{{% resource_link 83a31ecc-e9e6-3c6c-4323-c1d174cf57d8 "Interferometer and interference" %}} (12:26)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +123,7 @@ L2.4
 L2.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Elitzur-Vaidman bombs]({{< baseurl >}}/resources/elitzur-vaidman-bombs) (10:29)
+{{% resource_link a2b26a93-eefc-e9a3-264e-d8be4b8553f0 "Elitzur-Vaidman bombs" %}} (10:29)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +138,7 @@ L2.5
 L3.1
 {{< tdclose >}}
 {{< tdopen >}}
-[The photoelectric effect]({{< baseurl >}}/resources/the-photoelectric-effect) (22:54)
+{{% resource_link aa616642-244d-8233-6072-d9e20f942411 "The photoelectric effect" %}} (22:54)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +147,7 @@ L3.1
 L3.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Units of h and Compton wavelength of particles]({{< baseurl >}}/resources/units-of-h-and-compton-wavelength-of-particles) (12:39)
+{{% resource_link bd4e82cb-5013-7bc3-24ef-08d5e2c5235a "Units of h and Compton wavelength of particles" %}} (12:39)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +156,7 @@ L3.2
 L3.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Compton Scattering]({{< baseurl >}}/resources/compton-scattering) (22:34)
+{{% resource_link 1939a938-5ae9-7660-100f-b4cb1d8eca7e "Compton Scattering" %}} (22:34)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +165,7 @@ L3.3
 L3.4
 {{< tdclose >}}
 {{< tdopen >}}
-[de Broglie’s proposal]({{< baseurl >}}/resources/de-broglie2019s-proposal) (10:39)
+{{% resource_link 733eb15b-d0af-0178-567b-20f4ccca8223 "de Broglie’s proposal" %}} (10:39)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +180,7 @@ L3.4
 L4.1
 {{< tdclose >}}
 {{< tdopen >}}
-[de Broglie wavelength in different frames]({{< baseurl >}}/resources/de-broglie-wavelength-in-different-frames) (14:53)
+{{% resource_link 602bf295-87a5-0598-3dd8-4f15409665c8 "de Broglie wavelength in different frames" %}} (14:53)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +189,7 @@ L4.1
 L4.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Galilean transformation of ordinary waves]({{< baseurl >}}/resources/galilean-transformation-of-ordinary-waves) (12:16)
+{{% resource_link 2c31390c-84a5-245f-f952-55ea27c01e71 "Galilean transformation of ordinary waves" %}} (12:16)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +198,7 @@ L4.2
 L4.3
 {{< tdclose >}}
 {{< tdopen >}}
-[The frequency of a matter wave]({{< baseurl >}}/resources/the-frequency-of-a-matter-wave) (10:23)
+{{% resource_link 68f965b8-30d1-313e-ae1d-fa04664ef6c4 "The frequency of a matter wave" %}} (10:23)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +207,7 @@ L4.3
 L4.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Group velocity and stationary phase approximation]({{< baseurl >}}/resources/group-velocity-and-stationary-phase-approximation) (10:32)
+{{% resource_link 5810fc5c-1955-56a1-d532-51505dc26d80 "Group velocity and stationary phase approximation" %}} (10:32)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +216,7 @@ L4.4
 L4.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Motion of a wave-packet]({{< baseurl >}}/resources/motion-of-a-wave-packet) (08:58)
+{{% resource_link 67b0d4a9-0126-7b99-e884-a6ff1ed3be0d "Motion of a wave-packet" %}} (08:58)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +225,7 @@ L4.5
 L4.6
 {{< tdclose >}}
 {{< tdopen >}}
-[The wave for a free particle]({{< baseurl >}}/resources/the-wave-for-a-free-particle) (14:35)
+{{% resource_link 6b1eb76f-240b-d7ce-c94b-f63441f74b76 "The wave for a free particle" %}} (14:35)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +240,7 @@ L4.6
 L5.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Momentum operator, energy operator, and a differential equation]({{< baseurl >}}/resources/momentum-operator-energy-operator-and-a-differential-equation) (20:33)
+{{% resource_link 9c288a7b-5400-78ba-a05a-1a02d1e3f985 "Momentum operator, energy operator, and a differential equation" %}} (20:33)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +249,7 @@ L5.1
 L5.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Free Schrödinger equation]({{< baseurl >}}/resources/free-schroedinger-equation) (09:56)
+{{% resource_link 60fe7d60-cf50-afdc-f6b7-960ecde83813 "Free Schrödinger equation" %}} (09:56)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -257,7 +258,7 @@ L5.2
 L5.3
 {{< tdclose >}}
 {{< tdopen >}}
-[The general Schrödinger equation. x, p commutator]({{< baseurl >}}/resources/the-general-schroedinger-equation) (17:58)
+{{% resource_link 1c5e0f0c-9d3b-e531-c70c-2b8c23c5079d "The general Schrödinger equation. x, p commutator" %}} (17:58)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -266,7 +267,7 @@ L5.3
 L5.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Commutators, matrices, and 3-dimensional Schrödinger equation]({{< baseurl >}}/resources/commutators-matrices-and-3-dimensional-schroedinger-equation) (16:12)
+{{% resource_link 0f3c09a4-dd8a-653c-23b4-4c8ed28a3e63 "Commutators, matrices, and 3-dimensional Schrödinger equation" %}} (16:12)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -275,7 +276,7 @@ L5.4
 L5.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Interpretation of the wavefunction]({{< baseurl >}}/resources/interpretation-of-the-wavefunction) (08:01)
+{{% resource_link 93be3242-8622-8ed9-7914-6844dc4a286f "Interpretation of the wavefunction" %}} (08:01)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -290,7 +291,7 @@ L5.5
 L6.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Normalizable wavefunctions and the question of time evolution]({{< baseurl >}}/resources/normalizable-wavefunctions-and-the-question-of-time-evolution) (16:50)
+{{% resource_link 307c9811-af7d-9b8a-5157-c9c269bd346f "Normalizable wavefunctions and the question of time evolution" %}} (16:50)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +300,7 @@ L6.1
 L6.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Is probability conserved? Hermiticity of the Hamiltonian]({{< baseurl >}}/resources/is-probability-conserved-hermiticity-of-the-hamiltonian) (20:42)
+{{% resource_link da8ac9fb-e344-1853-39dd-1788e2ccce1a "Is probability conserved? Hermiticity of the Hamiltonian" %}} (20:42)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +309,7 @@ L6.2
 L6.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Probability current and current conservation]({{< baseurl >}}/resources/probability-current-and-current-conservation) (15:14)
+{{% resource_link 1622e088-d308-d157-82be-4a5e2a42b51b "Probability current and current conservation" %}} (15:14)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -317,7 +318,7 @@ L6.3
 L6.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Three dimensional current and conservation]({{< baseurl >}}/resources/three-dimensional-current-and-conservation) (18:13)
+{{% resource_link 6e5fec42-34ae-7ce5-87c4-e0abb222e582 "Three dimensional current and conservation" %}} (18:13)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -332,7 +333,7 @@ L6.4
 L7.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Wavepackets and Fourier representation]({{< baseurl >}}/resources/wavepackets-and-fourier-representation) (12:23)
+{{% resource_link e8a97aa3-1202-8d81-2288-eabe185fb1bf "Wavepackets and Fourier representation" %}} (12:23)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -341,7 +342,7 @@ L7.1
 L7.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Reality condition in Fourier transforms]({{< baseurl >}}/resources/reality-condition-in-fourier-transforms) (09:11)
+{{% resource_link a048eeb2-415a-5c77-d44d-8f486d8c5ebd "Reality condition in Fourier transforms" %}} (09:11)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -350,7 +351,7 @@ L7.2
 L7.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Widths and uncertainties]({{< baseurl >}}/resources/widths-and-uncertainties) (19:13)
+{{% resource_link 23bdc3fe-549c-d69d-a167-2c78e9bbbf70 "Widths and uncertainties" %}} (19:13)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -359,7 +360,7 @@ L7.3
 L7.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Shape changes in a wave]({{< baseurl >}}/resources/shape-changes-in-a-wave) (16:56)
+{{% resource_link dca2eb46-a6f8-229b-2ed0-88b5921537db "Shape changes in a wave" %}} (16:56)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -368,7 +369,7 @@ L7.4
 L7.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Time evolution of a free particle wavepacket]({{< baseurl >}}/resources/time-evolution-of-a-free-particle-wavepacket) (09:44)
+{{% resource_link 212179cf-f7d7-6c1d-4c63-91917bdd7537 "Time evolution of a free particle wavepacket" %}} (09:44)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -383,7 +384,7 @@ L7.5
 L8.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Fourier transforms and delta functions]({{< baseurl >}}/resources/fourier-transforms-and-delta-functions) (13:58)
+{{% resource_link eae7119d-8ce4-b23e-e8ca-37c056fd99d8 "Fourier transforms and delta functions" %}} (13:58)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -392,7 +393,7 @@ L8.1
 L8.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Parseval identity]({{< baseurl >}}/resources/parseval-identity) (15:50)
+{{% resource_link aefb540c-9207-d448-ea44-f2b6f95c74e7 "Parseval identity" %}} (15:50)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -401,7 +402,7 @@ L8.2
 L8.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Three-dimensional Fourier transforms]({{< baseurl >}}/resources/three-dimensional-fourier-transforms) (06:04)
+{{% resource_link be28e446-ee4e-9386-7a11-5f31e5134a11 "Three-dimensional Fourier transforms" %}} (06:04)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -410,7 +411,7 @@ L8.3
 L8.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Expectation values of operators]({{< baseurl >}}/resources/expectation-values-of-operators) (28:15)
+{{% resource_link aba81780-7a1b-4aa0-681c-095052cfa35b "Expectation values of operators" %}} (28:15)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +420,7 @@ L8.4
 L8.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Time dependence of expectation values]({{< baseurl >}}/resources/time-dependence-of-expectation-values) (7:37)
+{{% resource_link f0efda9e-21b6-18c6-12ac-503bcb1c4b74 "Time dependence of expectation values" %}} (7:37)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -434,7 +435,7 @@ L8.5
 L9.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Expectation value of Hermitian operators]({{< baseurl >}}/resources/expectation-value-of-hermitian-operators) (16:40)
+{{% resource_link b1dd9100-a68e-6be3-9488-39f31e8f4ff6 "Expectation value of Hermitian operators" %}} (16:40)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -443,7 +444,7 @@ L9.1
 L9.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Eigenfunctions of a Hermitian operator]({{< baseurl >}}/resources/eigenfunctions-of-a-hermitian-operator) (13:05)
+{{% resource_link 2dafd7af-b397-d070-bf2f-a6dd6304b1cf "Eigenfunctions of a Hermitian operator" %}} (13:05)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -452,7 +453,7 @@ L9.2
 L9.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Completeness of eigenvectors and measurement postulate]({{< baseurl >}}/resources/completeness-of-eigenvectors-and-measurement-postulate) (16:56)
+{{% resource_link 45c55934-f49f-db4f-fc10-531ef88626cb "Completeness of eigenvectors and measurement postulate" %}} (16:56)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -461,7 +462,7 @@ L9.3
 L9.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Consistency condition. Particle on a circle]({{< baseurl >}}/resources/consistency-condition) (17:45)
+{{% resource_link 178cef1c-9c7c-3f74-5d29-f4c57380474b "Consistency condition. Particle on a circle" %}} (17:45)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -470,7 +471,7 @@ L9.4
 L9.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Defining uncertainty]({{< baseurl >}}/resources/defining-uncertainty) (10:31)
+{{% resource_link ff4108aa-9e27-36d9-36ca-07aff588ae3c "Defining uncertainty" %}} (10:31)
 {{< tdclose >}}
 
 {{< trclose >}}
