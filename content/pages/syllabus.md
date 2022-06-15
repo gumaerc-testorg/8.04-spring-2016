@@ -1,25 +1,23 @@
 ---
 content_type: page
+description: This section describes the course prerequisites, content, requirements,
+  and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 32ca58b6-3fe3-3bee-28e6-786f7ebda5aa
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 90 minute / session
 
 Recitations: 2 sessions / week, 1 hour / session
 
-Prerequisites
--------------
+## Prerequisites
 
-Students must have completed [_8.03 Physics III: Vibrations and Waves_](/courses/8-03-physics-iii-spring-2003) with a grade of C or higher.
+Students must have completed [_8.03 Physics III: Vibrations and Waves_](/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016) with a grade of C or higher.
 
-Description
------------
+## Description
 
 The course is broadly divided into three parts:
 
@@ -29,33 +27,30 @@ Part 2 deals with solutions of the Schrödinger equation for one-dimensional pot
 
 Part 3 begins with the subject of scattering on the half-line. One can learn in this simpler context the basic concepts needed in 3-dimensional scattering theory: Scattered wave, phaseshifts, time delays, Levinson theorem, and resonances. We then turn to three-dimensional central potential problems. We introduce the angular momentum operators and derive their commutator algebra. The Schrödinger equation is reduced to a radial equation. We discuss the hydrogen atom in detail.
 
-Required Text
--------------
+## Required Text
 
 Griffiths, David J. _Introduction to Quantum Mechanics_. Pearson Prentice Hall, 2004. ISBN: 9780131118928.
 
-References
-----------
+## References
 
-Shankar, Ramamurti. _Principles of Quantum Mechanics_. Plenum Press, 1994. ISBN: 9780306447907.  
+Shankar, Ramamurti. _Principles of Quantum Mechanics_. Plenum Press, 1994. ISBN: 9780306447907.   
 (A conceptual textbook with many superb explanations.)
 
-Cohen-Tannoudji, et al. _Quantum Mechanics, Vols. 1 & 2_. Wiley, 1991. ISBN: 9780471164333 and 9780471164357.  
+Cohen-Tannoudji, et al. _Quantum Mechanics, Vols. 1 & 2_. Wiley, 1991. ISBN: 9780471164333 and 9780471164357.   
 (Useful for this course as well as for Quantum Physics II and III. Many students find it too encyclopedic.)
 
-Liboff, Richard L. _Introductory Quantum Mechanic_s. Addison Wesley, 2002. ISBN: 9780805387148.  
+Liboff, Richard L. \_Introductory Quantum Mechanic\_s. Addison Wesley, 2002. ISBN: 9780805387148.   
 (A detailed and pedagogic textbook with many exercises.)
 
-Gasiorowicz, Stephen. _Quantum Physics_. Wiley, 2003. ISBN: 9780471057000.  
+Gasiorowicz, Stephen. _Quantum Physics_. Wiley, 2003. ISBN: 9780471057000.   
 (Efficient textbook, with plenty of material but little explanation.)
 
-Dirac, Paul Adrien Maurice. _The Principles of Quantum Mechanics_. Clarendon Press, 1982. ISBN: 9780198520115.  
+Dirac, Paul Adrien Maurice. _The Principles of Quantum Mechanics_. Clarendon Press, 1982. ISBN: 9780198520115.   
 (Deep, hard and rewarding. Not practical during the semester.)
 
 Ohanian, Hans C. _Principles of Quantum Mechanics_. Prentice Hall, 1989. ISBN: 9780137127955.
 
-Problem Sets
-------------
+## Problem Sets
 
 Weekly problem sets will normally be posted on Thursdays and be due the following Thursday or Friday by 5:00 pm. Solutions will be posted on the due date and graded problem sets will be handed out in recitation sections by the following Thursday.
 
@@ -65,13 +60,11 @@ Sitting down by yourself and reasoning your way through a problem will help you 
 
 It is a breach of academic integrity to copy any solution from another student or from previous years' solutions. Your solutions should be logical, complete, and legible. If you cannot present a solution clearly, it is likely that you do not understand it adequately. Graders are instructed not to give credit for unclear or illegible solutions.
 
-Exams
------
+## Exams
 
 Mastery of homework is intended to be the primary learning tool in preparation for exams. There will be two in class tests and one three-hour final exam.
 
-Grading
--------
+## Grading
 
 The relative weighting of exams and problems sets will be as follows:
 
