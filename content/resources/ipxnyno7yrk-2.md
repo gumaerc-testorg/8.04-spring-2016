@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-04-quantum-physics-i-spring-2016/653d0f25704d5d8d95b5357b4a2ef51c_ipXNYnO7yRk.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

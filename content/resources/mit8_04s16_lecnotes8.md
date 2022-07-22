@@ -6,6 +6,7 @@ file: /courses/8-04-quantum-physics-i-spring-2016/72de1b688f3f40e1c42b26b3da2958
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quantum Physics I, Lecture Note 8
 uid: 72de1b68-8f3f-40e1-c42b-26b3da29585a
 ---
 This resource contains information regarding quantum physics: Lecture Note 8.
-

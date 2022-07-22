@@ -6,6 +6,7 @@ file: /courses/8-04-quantum-physics-i-spring-2016/47367602c26c4559e9c267f8694203
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quantum Physics I, Final Exam
 uid: 47367602-c26c-4559-e9c2-67f8694203bf
 ---
 This resource contains information regarding quantum physics: Final exam.
-

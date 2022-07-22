@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-04-quantum-physics-i-spring-2016/cb4c2f49edc783246e4c6cfbf89ed56f_8Dxo4LPK_9w.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
