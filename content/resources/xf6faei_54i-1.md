@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-04-quantum-physics-i-spring-2016/6c28e3a525129a5d2daa2cf8b817bb5c_XF6FAEi_54I.pdf
+file_size: 23185
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
