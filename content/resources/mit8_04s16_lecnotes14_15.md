@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding quantum physics: Lecture
   Notes 14-15.'
 draft: false
-file: /courses/8-04-quantum-physics-i-spring-2016/3b4ee73bda5abd93cbb2a89ae9b6765b_MIT8_04S16_LecNotes14_15.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2016/3b4ee73bda5abd93cbb2a89ae9b6765b_MIT8_04S16_LecNotes14_15.pdf
 file_size: 125941
 file_type: application/pdf
 image_metadata:

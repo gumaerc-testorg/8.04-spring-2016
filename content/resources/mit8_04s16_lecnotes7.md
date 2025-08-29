@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding quantum physics: Lecture
   Note 7.'
 draft: false
-file: /courses/8-04-quantum-physics-i-spring-2016/6ca5bd79a2121967796f7c0b8f6f48c9_MIT8_04S16_LecNotes7.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2016/6ca5bd79a2121967796f7c0b8f6f48c9_MIT8_04S16_LecNotes7.pdf
 file_size: 321331
 file_type: application/pdf
 image_metadata:
