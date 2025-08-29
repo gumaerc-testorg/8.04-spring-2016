@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-04-quantum-physics-i-spring-2016/4a4cdfd53b70b438d53ab2f3c16ca0b7_AnzhigYawy8.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2016/4a4cdfd53b70b438d53ab2f3c16ca0b7_AnzhigYawy8.pdf
 file_size: 15497
 file_type: application/pdf
 learning_resource_types: []
